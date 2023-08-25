@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora HTML, CSS e JS
+Meu primeiro projeto envolvendo HTML, JS e CSS foi a criação de uma calculadora com um layout personalizado. Este projeto representou uma experiência extremamente enriquecedora para mim, já que marcou o meu primeiro contato com a construção de uma aplicação com uma aparência visual. Durante o desenvolvimento, deparei-me com uma funcionalidade bastante interessante chamada eval. Essa função trouxe uma grande simplificação para o processo de criação do código, especialmente no que diz respeito à lógica de manipulação de texto. Antes de conhecê-la, eu estava ponderando a possibilidade de empregar várias declarações condicionais como if e else, ou até mesmo utilizar um bloco switch para lidar com o texto inserido.
